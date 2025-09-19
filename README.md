@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimeeaas&layout=compact&hide_progress=true&langs_count=168&theme=tokyonight"/>
 </div>
 
-## Principais Linguagens:
+## Linguagens que uso:
 <div style="display: inline_block">
   <img align="center" alt="Aimee-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Aimee-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
