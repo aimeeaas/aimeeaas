@@ -2,7 +2,7 @@
 
 <p> 💡 Técnica em Informática para Internet; <br>
 🎯 Estudante de Análise e Densevolvimento de Sistemas;  <br>
-👩‍💻 Estágiaria em Implantação de Sistemas. </p>
+💻 Estágiaria em Implantação de Sistemas. </p>
 
 <div>
   <a href="https://github.com/aimeeaas">
