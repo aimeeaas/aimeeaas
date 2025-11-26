@@ -4,12 +4,14 @@
 🎯 Estudante de Análise e Densevolvimento de Sistemas;  <br>
 💻 Estágiaria em Implantação de Sistemas. </p>
 
-<div>
+
+<!--<div>
   <a href="https://github.com/aimeeaas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aimeeaas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimeeaas&layout=compact&hide_progress=true&langs_count=168&theme=tokyonight"/>
-</div>
+</div>-->
 
+    
 ## Linguagens que uso:
 <div style="display: inline_block">
   <img align="center" alt="Aimee-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
