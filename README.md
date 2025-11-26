@@ -8,7 +8,7 @@
 - 💻 Estagiária em Implantação de Sistemas
 - 🌸 Explorando o mundo da tecnologia com curiosidade e propósito
 
-<br>
+
 
 ## Linguagens que uso:
 <div style="display: inline_block">
