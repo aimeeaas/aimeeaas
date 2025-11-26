@@ -1,15 +1,15 @@
+
 ## Oii! Eu sou a Aimee ✨
 
 <p> 💡 Técnica em Informática para Internet; <br>
 🎯 Estudante de Análise e Densevolvimento de Sistemas;  <br>
 💻 Estágiaria em Implantação de Sistemas. </p>
 
-
-<!--<div>
-  <a href="https://github.com/aimeeaas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aimeeaas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimeeaas&layout=compact&hide_progress=true&langs_count=168&theme=tokyonight"/>
-</div>-->
+<div>
+  <!--<a href="https://github.com/aimeeaas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aimeeaas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide"/>-->
+  <img height="180em" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"/>
+</div>
 
     
 ## Linguagens que uso:
