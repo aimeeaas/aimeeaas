@@ -5,7 +5,6 @@
 
 - 💡 Técnica em Informática para Internet
 - 🎯 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Estagiária em Implantação de Sistemas
 - 🌸 Explorando o mundo da tecnologia com curiosidade e propósito
 
 
