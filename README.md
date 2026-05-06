@@ -9,11 +9,11 @@
   alt="Computador animado"
 />
 
-🎓 Técnica em Informática para Internet  
-🎯 Estudante de Análise e Desenvolvimento de Sistemas  
-🌸 Explorando o mundo da tecnologia com curiosidade e propósito  
+- Técnica em Informática para Internet  
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Explorando o mundo da tecnologia com curiosidade e propósito  
 
-<br><br>
+<br>
 
 ## 💻 Linguagens e Tecnologias
 
@@ -30,9 +30,9 @@
 
 ## 📚 Atualmente estudando
 
-- 🗄️ Banco de Dados SQL
-- 🌐 Desenvolvimento Web
-- 📱 Programação para dispositivos móveis
+- Banco de Dados SQL
+- Desenvolvimento Web
+- Programação para dispositivos móveis
 
 <br>
 
