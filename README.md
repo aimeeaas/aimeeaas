@@ -2,9 +2,9 @@
 
 <img
   src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"
-  min-width="140px"
-  max-width="140px"
-  width="140px"
+  min-width="120px"
+  max-width="120px"
+  width="120px"
   align="right"
   alt="Computador animado"
 />
@@ -13,7 +13,6 @@
 - Estudante de Análise e Desenvolvimento de Sistemas  
 - Explorando o mundo da tecnologia com curiosidade e propósito  
 
-<br>
 
 ## 💻 Linguagens e Tecnologias
 
@@ -26,15 +25,11 @@
   <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </p>
 
-<br>
-
 ## 📚 Atualmente estudando
 
 - Banco de Dados SQL
 - Desenvolvimento Web
 - Programação para dispositivos móveis
-
-<br>
 
 ## 🌐 Onde me encontrar
 
