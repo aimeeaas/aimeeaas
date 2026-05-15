@@ -14,7 +14,7 @@
 - Explorando o mundo da tecnologia com curiosidade e propósito  
 
 
-## 💻 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <p align="left">
   <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -25,13 +25,13 @@
   <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </p>
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Banco de Dados SQL
 - Desenvolvimento Web
 - Programação para dispositivos móveis
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aimee-alves-as/">
