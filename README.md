@@ -2,9 +2,9 @@
 
 <img
   src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"
-  min-width="120px"
-  max-width="120px"
-  width="120px"
+  min-width="110px"
+  max-width="110px"
+  width="110px"
   align="right"
   alt="Computador animado"
 />
