@@ -25,7 +25,7 @@
   <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </p>
 
-## Atualmente estudando
+## Atualmente Estudando
 
 - Banco de Dados SQL
 - Desenvolvimento Web
