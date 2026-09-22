@@ -14,7 +14,7 @@
 - Explorando o mundo da tecnologia com curiosidade e propósito  
 
 
-## Linguagens e Tecnologias
+## Linguagens
 
 <p align="left">
   <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
